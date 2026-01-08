@@ -4,7 +4,7 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3389FF&center=true&vCenter=true&width=650&lines=Java+%26+Minecraft+Systems+Developer;Founder+of+SsSNetwork;FRC+Team+%2310180+Software+Member;Electronics+%26+Software+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3389FF&center=true&vCenter=true&width=650&lines=Java+%26+Minecraft+Systems+Developer;Founder+of+SsSNetwork;FRC+Team+%2310180+Software+Developer;Electronics+%26+Software+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@ Hi there! I'm **Batuhan** I am a passionate developer focusing on the **Java** e
 
 - 🔭 I am currently developing and managing systems for **SsSNetwork**.
 - ⚙️ I actively work on **Electronics** and **Software** integration projects.
-- 🤖 Active member of the **Software Department** at **FRC Team #10180**.
+- 🤖 Active developer of the **Software Department** at **FRC Team #10180**.
 - 🌱 Always learning new technologies to build better, scalable solutions.
 
 ---
