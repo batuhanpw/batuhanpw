@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:00008B&height=250&section=header&text=Batuhan&fontSize=90&fontAlign=50&fontAlignY=35&desc=SsSNetwork%20%7C%20Java%20Developer%20%7C%20FRC%20%2310180&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" alt="Batuhan Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:00008B&height=250&section=header&text=Batuhan&fontSize=90&fontAlign=50&fontAlignY=35&desc=Java%20Developer&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" alt="Batuhan Header" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3389FF&center=true&vCenter=true&width=650&lines=Java+%26+Minecraft+Systems+Developer;Founder+of+SsSNetwork;FRC+Team+%2310180+Software+Developer;Electronics+%26+Software+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3389FF&center=true&vCenter=true&width=650&lines=Java+%26+Minecraft+Systems+Developer;Founder+of+SsSNetwork;FRC+Team+%2310180+Programmer;Electronics+%26+Software+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -65,10 +65,6 @@ Hi there! I'm **Batuhan** I am a passionate developer focusing on the **Java** e
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanpw&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=en&hide_border=true" alt="streak graph" />
-</div>
 
 ---
 
