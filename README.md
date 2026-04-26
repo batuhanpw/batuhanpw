@@ -55,22 +55,9 @@ Hi there! I'm **Batuhan** I am a passionate developer focusing on the **Java** e
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batuhanpw&show_icons=true&theme=tokyonight&locale=en&count_private=true&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanpw&layout=compact&theme=tokyonight&locale=en&hide=html,css,php,python&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<br />
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=batuhanpw&label=Profile%20Views&color=0078D4&style=flat-square" alt="watchers" />
-  <br />
-  <br />
   <p>© 2026 Batuhan | <a href="https://batuhan.pw">batuhan.pw</a></p>
 </div>
